@@ -1,0 +1,103 @@
+img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.8);
+  object-fit: cover;
+}
+
+.profile_picture {
+  opacity: 0.4;
+}
+
+
+.profile_picture:hover {
+  opacity: 1.0;
+  transition: all 2s ease;
+  height: 400px;
+  width: 400px;
+  border-radius: 20%;
+
+}
+
+img:hover{
+  height: 300px;
+  width: 300px;
+  border-radius:
+  transition: all 1.3s ease;
+  opacity: 0%;
+}
+
+
+a:hover {
+color: red;
+font-size: 50px;
+transition: all 5s ease;
+}
+
+li {
+  display: inline;
+  padding: 10px;
+  font-size:20px;
+  color: grey;
+  justify-content: center;
+}
+
+.projets {
+  height: 60px;
+  width: 100%;
+
+}
+
+.projets:hover{
+  height: 120px;
+  width: 120px;
+  transition: all 1.3s ease;
+}
+
+
+.group {
+  background-image: url("Okok.jpeg");
+  width: 900px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+  min-height: 100vh;
+  padding: 20px;
+}
+
+
+
+body {
+color: #50473d;
+margin: 0 !important;
+background-image: url("Palmier.jpeg");
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #6d8429;
+}
+
+h2, h3, p, a, td{
+  font-family: 'Noto Serif SC', serif;
+}
+
+a {
+  text-decoration: none
+}
+
+.card {
+  background-color: rgba(100,100,100,0.2);
+  padding: 10px 30px 10px 30px;
+  text-align: center;
+  margin: 30px;
+  border: 1px solid #6d8429;
+}
+
+
+
+
+
+
+
+
+
