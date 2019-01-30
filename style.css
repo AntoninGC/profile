@@ -57,7 +57,7 @@ li {
 
 
 .group {
-  background-image: url("Okok.jpeg");
+  background-image: url("images/Okok.jpeg");
   width: 900px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
   min-height: 100vh;
@@ -67,9 +67,9 @@ li {
 
 
 body {
-color: #50473d;
-margin: 0 !important;
-background-image: url("Palmier.jpeg");
+  color: #50473d;
+  margin: 0 !important;
+  background-image: url("images/Palmier.jpeg");
 }
 
 h1 {
